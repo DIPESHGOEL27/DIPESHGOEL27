@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-My name is **Dipesh Goel**. I am third year undergraduate student at IIT Kharagpur.
+My name is **Dipesh Goel**. I am fourth year undergraduate student at IIT Kharagpur.
 <!--
 ## About Me
 
